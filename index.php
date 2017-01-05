@@ -50,7 +50,7 @@ $bot->cmd('/upload', function () {
 // inline keyboard
 $bot->cmd('/keyboard', function () {
     $keyboard[] = [
-        ['text' => 'PHPTelebot', 'url' => 'https://github.com/radyakaze/phptelebot'],
+        ['text' => 'PHProbot', 'url' => 'https://github.com/candra1104/robot'],
         ['text' => 'Haru bot', 'url' => 'https://telegram.me/harubot'],
     ];
     $options = [
