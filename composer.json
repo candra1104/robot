@@ -1,11 +1,11 @@
 {
-    "name": "radyakaze/phptelebot",
+    "name": "candra1104/robot",
     "type": "framework",
     "description": "Telegram bot framework written in PHP.",
     "keywords": ["bot", "telegram"],
     "license": "GPL-3.0",
     "authors": [
-        {"name": "Radya", "email": "radya@gmx.com"}
+        {"name": "Candra", "email": "candra@gmx.com"}
     ],
     "require": {
         "php": ">=5.4",
