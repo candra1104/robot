@@ -51,7 +51,7 @@ $bot->cmd('/upload', function () {
 $bot->cmd('/keyboard', function () {
     $keyboard[] = [
         ['text' => 'PHProbot', 'url' => 'https://github.com/candra1104/robot'],
-        ['text' => 'Haru bot', 'url' => 'https://telegram.me/harubot'],
+        ['text' => 'Transaksi bot', 'url' => 'https://telegram.me/TeleTransAkisbot'],
     ];
     $options = [
         'reply_markup' => ['inline_keyboard' => $keyboard],
